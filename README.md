@@ -1,4 +1,4 @@
-# Modified Whatsapp-API
+# Modified Baileys By Farel
 <p align='center'>
   <img src="https://files.catbox.moe/6rnx3e.mp4" width="172">
 </p>
